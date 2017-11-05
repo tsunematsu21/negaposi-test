@@ -10,3 +10,7 @@ bundle install --path=/vendor/bundle
 
 ./negaposi.rb
 ```
+
+# Notes
+単語感情極性対応表  
+http://www.lr.pi.titech.ac.jp/~takamura/pndic_ja.html
