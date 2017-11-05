@@ -40,9 +40,6 @@ class NegaPosi
 
 end
 
-# s = NegaPosi.total_score_of(text)
-# puts "#{text}"
-# puts "    => Score : #{s}"
 n = NegaPosi.new
 while text = STDIN.gets
   s = n.total_score_of(text) if text.is_a?(String)
